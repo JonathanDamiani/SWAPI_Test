@@ -1,3 +1,5 @@
+// Copyright © 2021 Jonathan Dean Damiani
+
 const Colors = {
     primary: '#FFE300',
     secondary: '#1C1E22',

@@ -1,3 +1,4 @@
+// Copyright © 2021 Jonathan Dean Damiani
 import styled from 'styled-components';
 import { H2, ShipInfoItem } from './';
 import Colors from '../colors';

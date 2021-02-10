@@ -1,3 +1,4 @@
+// Copyright © 2021 Jonathan Dean Damiani
 import styled from 'styled-components';
 import Colors from '../colors';
 

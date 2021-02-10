@@ -1,3 +1,4 @@
+// Copyright © 2021 Jonathan Dean Damiani
 import { useEffect, useState } from 'react'; 
 import { useSelector, useDispatch } from 'react-redux';
 import { fetchShips, calcStopsToTravel } from './redux-config';

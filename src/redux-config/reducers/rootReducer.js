@@ -1,3 +1,4 @@
+// Copyright © 2021 Jonathan Dean Damiani
 import shipReducer from './shipReducer';
 import { combineReducers } from 'redux';
 

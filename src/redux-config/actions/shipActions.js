@@ -1,3 +1,4 @@
+// Copyright © 2021 Jonathan Dean Damiani
 import axios from 'axios';
 
 export const fetchShips = async (dispatch) => {

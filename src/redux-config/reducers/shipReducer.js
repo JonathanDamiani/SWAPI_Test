@@ -1,3 +1,4 @@
+// Copyright © 2021 Jonathan Dean Damiani
 const initialState = {
     ships:[],
     isLoading: true
